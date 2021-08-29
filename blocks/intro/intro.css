@@ -1,0 +1,10 @@
+.intro {
+    max-width: 80%;
+    margin: auto;
+}
+
+@media screen and (max-width: 1024px) {
+    .intro {
+        max-width: 90%;
+    }
+}
